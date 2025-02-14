@@ -16,7 +16,7 @@ This repository contains a collection of beginner-friendly React projects to hel
 ## 🏗️ Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/React-Projects.git
+git clone https://github.com/itsPranjul/React-Projects.git
 cd React-Projects
 ```
 ### 2️⃣ Install Dependencies
